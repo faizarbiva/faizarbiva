@@ -4,8 +4,8 @@
 
 - <b>(Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/faizarbiva/osticket-prereqs)
-  - [how to build your first virtual machine](https://github.com/faizarbiva/vm-config)
-  - [setting up a recourse group](https://github.com/faizarbiva/recource-group-config)
+  - [how to build your first virtual machine](https://github.com/faizarbiva/post-install-config)
+  - [setting up a recourse group](https://github.com/faizarbiva/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/faizarbiva/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/faizarbiva/azure-network-protocols)
