@@ -5,7 +5,7 @@
 - <b>(Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/faizarbiva/osticket-prereqs)
   - [how to build your first virtual machine](https://github.com/faizarbiva/post-install-config)
-  - [setting up a recourse group](https://github.com/faizarbiva/ticket-lifecycle)
+  - [poweshell fundemantals for beginners](https://github.com/faizarbiva/ticket-lifecycle)
 
 
 <h2>Connect with me:</h2>
