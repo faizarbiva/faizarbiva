@@ -1,5 +1,4 @@
-<h1>Hi, I'm Faiza.<h1>
-
+<h1>Hi, I'm Faiza!<h1>
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>(Help Desk Ticketing System)</b>
