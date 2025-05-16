@@ -1,7 +1,7 @@
 <h1>Hi, I'm Faiza!<h1>
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>(Help Desk Ticketing System)</b>
+- <b>(Help Desk projects)</b>
   - [how to build a virtual network and a recourse group](https://github.com/faizarbiva/osticket-prereqs)
   - [how to build your first virtual machine](https://github.com/faizarbiva/post-install-config)
   - [poweshell fundemantals for beginners](https://github.com/faizarbiva/ticket-lifecycle)
